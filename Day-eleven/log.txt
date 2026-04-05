@@ -1,0 +1,5 @@
+INFO: System started
+ERROR: Failed to load module
+INFO: User logged in
+ERROR: Database connection failed
+WARNING: Low memory
